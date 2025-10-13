@@ -1,10 +1,18 @@
 # 👋 Oi, eu sou o Anderson — Desenvolvedor Web Júnior  
+<p align="left">
+  <a href="https://anderson0617.github.io/-meu-portfolio/">
+    <img src="assets/video/mockuper.png" alt="Mockup do Meu Portfólio (clique para visitar)" width="420" />
+  </a>
+</p>
 **Front-End & Automação (n8n / Webhooks / IA)**  
 Crio landing pages rápidas, integração com APIs e experiências modernas para web. 🚀
 
 <!-- Linha de digitação (efeito "typing") -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=800&multiline=true&separator=%3Cbr%3E&width=520&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Aqui+a+evolu%C3%A7%C3%A3o+acontece+%F0%9F%9A%80;Projetos+em+destaque+abaixo+%E2%87%A3" alt="typing effect" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2600&pause=900&multiline=true&separator=%3Cbr%3E&width=640&color=00FFFF&repeat=true&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Aqui+a+evolu%C3%A7%C3%A3o+acontece+%F0%9F%9A%80;Projeto+em+destaque%3A+Meu+Portf%C3%B3lio;Front-End+%2B+Automa%C3%A7%C3%A3o+(n8n%2FWebhooks%2FIA);Landing+pages+%C3%A1geis+e+responsivas;APIs%2C+integra%C3%A7%C3%B5es+e+GitHub+Pages;Conecta+comigo+no+LinkedIn+%F0%9F%91%87"
+    alt="Mensagens animadas (typing) em #00FFFF"
+  />
 </p>
 
 ---
