@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Anderson — Desenvolvedor Web Júnior  
 <p align="left">
-  <!-- Coloque depois um PNG simples 1200x140 em #DCDCDC neste caminho -->
+  <!-- Faixa simulando fundo #DCDCDC -->
   <img src="assets/images/banner-dcdcdc.png" alt="Faixa #DCDCDC" width="100%" />
 </p>
 <p align="left">
@@ -11,28 +11,18 @@
 **Front-End & Automação (n8n / Webhooks / IA)**  
 Crio landing pages rápidas, integração com APIs e experiências modernas para web. 🚀
 
-<!-- Linha de digitação (efeito "typing") -->
+<!-- Linha de digitação (typing) — maior -->
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2600&pause=900&multiline=true&separator=%3Cbr%3E&width=640&color=00FFFF&repeat=true&lines=bem-vindo+ao+meu+guithub+aqui+a+evolucao+e+notavel;Aqui+a+evolu%C3%A7%C3%A3o+acontece+%F0%9F%9A%80;Projeto+em+destaque%3A+Meu+Portf%C3%B3lio;Front-End+%2B+Automa%C3%A7%C3%A3o+(n8n%2FWebhooks%2FIA);Landing+pages+%C3%A1geis+e+responsivas;APIs%2C+integra%C3%A7%C3%B5es+e+GitHub+Pages;Conecta+comigo+no+LinkedIn+%F0%9F%91%87"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2600&pause=900&multiline=true&separator=%3Cbr%3E&width=880&color=00FFFF&repeat=true&lines=bem-vindo+ao+meu+guithub+aqui+a+evolucao+e+notavel;Aqui+a+evolu%C3%A7%C3%A3o+acontece+%F0%9F%9A%80;Projeto+em+destaque%3A+Meu+Portf%C3%B3lio;Front-End+%2B+Automa%C3%A7%C3%A3o+(n8n%2FWebhooks%2FIA);Landing+pages+%C3%A1geis+e+responsivas;APIs%2C+integra%C3%A7%C3%B5es+e+GitHub+Pages;Conecta+comigo+no+LinkedIn+%F0%9F%91%87&v=4"
     alt="Mensagens animadas (typing) em #00FFFF"
   />
 </p>
+<!-- Thumbnail abre o vídeo em nova aba -->
 <p align="left">
-  <video
-    src="assets/video/Anderson.ai.mp4"
-    width="76"
-    height="76"
-    autoplay
-    muted
-    loop
-    playsinline
-    controls
-    poster="assets/mockuper.png"
-  >
-    Seu navegador não suporta vídeo embutido. Veja aqui:
-    <a href="assets/video/Anderson.ai.mp4">assets/video/Anderson.ai.mp4</a>
-  </video>
+  <a href="assets/video/Anderson.ai.mp4">
+    <img src="assets/mockuper.png" alt="Assista ao vídeo de introdução (clique)" width="420" />
+  </a>
 </p>
 
 ---
