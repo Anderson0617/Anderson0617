@@ -21,12 +21,6 @@
   />
 </p>
 
-<!-- Thumbnail que abre o vídeo em nova aba (comportamento confiável no README) -->
-<p align="left">
-  <a href="assets/video/Anderson.ai.mp4">
-    <img src="assets/mockuper.png" alt="Assista ao vídeo de introdução (clique)" width="240" />
-  </a>
-</p>
 <!-- END: HERO -->
 
 ---
@@ -54,13 +48,13 @@
 
 ## ðŸ“Š EstatÃ­sticas
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Anderson0617&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Anderson0617&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Anderson0617&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="stats" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=Anderson0617&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson0617&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-  <img height="150" src="https://github-profile-trophy.vercel.app/?username=Anderson0617&theme=onestar&no-frame=true&row=1&column=6" alt="trophy" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson0617&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img height="190" src="https://github-profile-trophy.vercel.app/?username=Anderson0617&theme=onestar&no-frame=true&row=1&column=6" alt="trophy" />
 </p>
 
 ---
