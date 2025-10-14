@@ -1,41 +1,50 @@
-# 👋 Oi, eu sou o Anderson — Desenvolvedor Web Júnior  
+﻿<!-- START: HERO -->
+# 👋 Oi, eu sou o Anderson — Desenvolvedor Web Júnior
+
+<!-- Faixa simulando fundo #DCDCDC (imagem full-width) -->
 <p align="left">
-  <!-- Faixa simulando fundo #DCDCDC -->
   <img src="assets/images/banner-dcdcdc.png" alt="Faixa #DCDCDC" width="100%" />
 </p>
-**Front-End & Automação (n8n / Webhooks / IA)**  
-Crio landing pages rápidas, integração com APIs e experiências modernas para web. 🚀
 
-<!-- Linha de digitação (typing) — maior -->
+<!-- Mockup clicável (abre o portfólio) -->
 <p align="left">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2600&pause=900&multiline=true&separator=%3Cbr%3E&width=880&color=00FFFF&repeat=true&lines=bem-vindo+ao+meu+guithub+aqui+a+evolucao+e+notavel;Aqui+a+evolu%C3%A7%C3%A3o+acontece+%F0%9F%9A%80;Projeto+em+destaque%3A+Meu+Portf%C3%B3lio;Front-End+%2B+Automa%C3%A7%C3%A3o+(n8n%2FWebhooks%2FIA);Landing+pages+%C3%A1geis+e+responsivas;APIs%2C+integra%C3%A7%C3%B5es+e+GitHub+Pages;Conecta+comigo+no+LinkedIn+%F0%9F%91%87&v=4"
-    alt="Mensagens animadas (typing) em #00FFFF"
-  />
-</p>
-<!-- Thumbnail abre o vídeo em nova aba -->
-<p align="left">
-  <a href="assets/video/Anderson.ai.mp4">
-    <img src="assets/mockuper.png" alt="Assista ao vídeo de introdução (clique)" width="420" />
+  <a href="https://anderson0617.github.io/-meu-portfolio/">
+    <img src="assets/mockuper.png" alt="Mockup do Meu Portfólio (clique para visitar)" width="420" />
   </a>
 </p>
 
+<!-- Linha de digitação (typing) — maior, #00FFFF -->
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2600&pause=900&multiline=true&separator=%3Cbr%3E&width=880&color=00FFFF&repeat=true&lines=bem-vindo+ao+meu+guithub+aqui+a+evolucao+e+notavel;Aqui+a+evolu%C3%A7%C3%A3o+acontece+%F0%9F%9A%80;Projeto+em+destaque%3A+Meu+Portf%C3%B3lio;Front-End+%2B+Automa%C3%A7%C3%A3o+(n8n%2FWebhooks%2FIA);Landing+pages+%C3%A1geis+e+responsivas;APIs%2C+integra%C3%A7%C3%B5es+e+GitHub+Pages;Conecta+comigo+no+LinkedIn+%F0%9F%91%87&v=6"
+    alt="Mensagens animadas (typing) em #00FFFF"
+  />
+</p>
+
+<!-- Thumbnail que abre o vídeo em nova aba (comportamento confiável no README) -->
+<p align="left">
+  <a href="assets/video/Anderson.ai.mp4">
+    <img src="assets/mockuper.png" alt="Assista ao vídeo de introdução (clique)" width="240" />
+  </a>
+</p>
+<!-- END: HERO -->
+
 ---
 
-## 🔧 Skills (núcleo)
+## ðŸ”§ Skills (nÃºcleo)
 <!-- badges principais -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## 🎨 Front-End & Ferramentas
+## ðŸŽ¨ Front-End & Ferramentas
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
 ![Responsive](https://img.shields.io/badge/Responsive%20Design-000000?logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white)
 ![GitHub%20Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=white)
 
-## ⚙️ Automação & Integrações
+## âš™ï¸ AutomaÃ§Ã£o & IntegraÃ§Ãµes
 ![n8n](https://img.shields.io/badge/n8n-EA4B6A?logo=n8n&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-0B7285?logo=awslambda&logoColor=white)
 ![API%20REST](https://img.shields.io/badge/API%20REST-2F855A?logo=postman&logoColor=white)
@@ -43,7 +52,7 @@ Crio landing pages rápidas, integração com APIs e experiências modernas para
 
 ---
 
-## 📊 Estatísticas
+## ðŸ“Š EstatÃ­sticas
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Anderson0617&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="stats" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Anderson0617&theme=tokyonight&hide_border=true" alt="streak" />
@@ -56,27 +65,27 @@ Crio landing pages rápidas, integração com APIs e experiências modernas para
 
 ---
 
-## 🌟 Projeto em Destaque — Meu Portfólio
-Criei um portfólio com foco em performance, responsividade e showcase de integrações (n8n, webhooks, IA).  
+## ðŸŒŸ Projeto em Destaque â€” Meu PortfÃ³lio
+Criei um portfÃ³lio com foco em performance, responsividade e showcase de integraÃ§Ãµes (n8n, webhooks, IA).  
 **Acesse:**  
-- 🔗 **Online:** https://anderson0617.github.io/-meu-portfolio/  
-- 💻 **Código:** https://github.com/Anderson0617/-meu-portfolio
+- ðŸ”— **Online:** https://anderson0617.github.io/-meu-portfolio/  
+- ðŸ’» **CÃ³digo:** https://github.com/Anderson0617/-meu-portfolio
 
-> Dica: veja também os projetos **Mentor.Dev – Gerador**, **Dev-Burger-5.1** e **Cyber-Café-Dev** no meu GitHub.
-
----
-
-## 🔗 Links principais
-- 🌐 **Portfólio Online:** https://anderson0617.github.io/-meu-portfolio/  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/anderson-olivera-dev  
-- 📺 **YouTube:** *(demos dos projetos)*  
-- ✉️ **Contato:** anderson0920485@gmail.com
+> Dica: veja tambÃ©m os projetos **Mentor.Dev â€“ Gerador**, **Dev-Burger-5.1** e **Cyber-CafÃ©-Dev** no meu GitHub.
 
 ---
 
-## 🙌 Sobre mim
-Baseado em São José – SC. Em transição para tecnologia, apaixonado por criar soluções e automatizar processos.  
-Aberto a colaboração, freelas e oportunidades. **Chama lá no LinkedIn!**
+## ðŸ”— Links principais
+- ðŸŒ **PortfÃ³lio Online:** https://anderson0617.github.io/-meu-portfolio/  
+- ðŸ’¼ **LinkedIn:** https://www.linkedin.com/in/anderson-olivera-dev  
+- ðŸ“º **YouTube:** *(demos dos projetos)*  
+- âœ‰ï¸ **Contato:** anderson0920485@gmail.com
+
+---
+
+## ðŸ™Œ Sobre mim
+Baseado em SÃ£o JosÃ© â€“ SC. Em transiÃ§Ã£o para tecnologia, apaixonado por criar soluÃ§Ãµes e automatizar processos.  
+Aberto a colaboraÃ§Ã£o, freelas e oportunidades. **Chama lÃ¡ no LinkedIn!**
 
 ---
 
@@ -84,5 +93,5 @@ Aberto a colaboração, freelas e oportunidades. **Chama lá no LinkedIn!**
   <img src="https://komarev.com/ghpvc/?username=Anderson0617&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<!-- Rodapé: espaço para futuros banners/prints -->
-<!-- Coloque assets próprios depois em /assets e referencie aqui -->
+<!-- RodapÃ©: espaÃ§o para futuros banners/prints -->
+<!-- Coloque assets prÃ³prios depois em /assets e referencie aqui -->
