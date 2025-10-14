@@ -1,11 +1,6 @@
 <!-- START: HERO -->
 # 👋 Oi, eu sou o Anderson — Desenvolvedor Web Júnior
 
-<!-- Faixa simulando fundo #DCDCDC (imagem full-width) -->
-<p align="left">
-  <img src="assets/images/banner-dcdcdc.png" alt="Faixa #DCDCDC" width="100%" />
-</p>
-
 <!-- Mockup clicável (abre o portfólio) -->
 <p align="left">
   <a href="https://anderson0617.github.io/-meu-portfolio/">
@@ -13,13 +8,14 @@
   </a>
 </p>
 
-<!-- Linha de digitação (typing) — maior, #00FFFF -->
+<!-- Linha de digitação (typing) — maior, -->
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2600&pause=900&multiline=true&separator=%3Cbr%3E&width=880&color=00FFFF&repeat=true&lines=bem-vindo+ao+meu+guithub+aqui+a+evolucao+e+notavel;Aqui+a+evolu%C3%A7%C3%A3o+acontece+%F0%9F%9A%80;Projeto+em+destaque%3A+Meu+Portf%C3%B3lio;Front-End+%2B+Automa%C3%A7%C3%A3o+(n8n%2FWebhooks%2FIA);Landing+pages+%C3%A1geis+e+responsivas;APIs%2C+integra%C3%A7%C3%B5es+e+GitHub+Pages;Conecta+comigo+no+LinkedIn+%F0%9F%91%87&v=6"
-    alt="Mensagens animadas (typing) em #00FFFF"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2600&pause=900&multiline=true&separator=%3Cbr%3E&width=880&color=00FFFF&repeat=true&lines=bem-vindo+ao+meu+guithub+aqui+a+evolucao+e+notavel;Aqui+a+evolu%C3%A7%C3%A3o+acontece+%F0%9F%9A%80;Projeto+em+destaque%3A+Meu+Portf%C3%B3lio;Front-End+%2B+Automa%C3%A7%C3%A3o+(n8n%2FWebhooks%2FIA);Landing+pages+%C3%A1geis+e+responsivas;APIs%2C+integra%C3%A7%C3%B5es+e+GitHub+Pages;Conecta+comigo+no+LinkedIn+%F0%9F%91%87"
+    alt="Mensagens animadas (typing) em #91ff00ff"
   />
 </p>
+
 <!-- END: HERO -->
 
 ---
