@@ -1,6 +1,6 @@
 <!-- START: HERO -->
 <h1 align="center">
-  <img src="assets/images/wave.gif" alt="👋" width="32" height="32" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="32" height="32" style="vertical-align: middle;" />
   &nbsp;Oi, eu sou o Anderson — Desenvolvedor Web Júnior
 </h1>
 
