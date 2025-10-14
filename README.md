@@ -78,6 +78,13 @@ Aberto a colaboração, freelas e oportunidades. **Chama lá no LinkedIn!**
 
 ---
 
+<!-- Snake contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anderson0617/Anderson0617/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson0617/Anderson0617/output/snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Anderson0617/Anderson0617/output/snake.svg" />
+</picture>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anderson0617&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
 </p>
