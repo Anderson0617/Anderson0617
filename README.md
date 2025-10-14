@@ -75,7 +75,7 @@ Criei um portfólio com foco em performance, responsividade e showcase de integr
 ---
 
 ## 🙌 Sobre mim
-Baseado em São José – SC. Em transição para tecnologia, apaixonado por criar soluções e automatizar processos.  
+São José – SC. Em transição para tecnologia, apaixonado por criar soluções e automatizar processos.  
 Aberto a colaboração, freelas e oportunidades. **Chama lá no LinkedIn!**
 
 ---
