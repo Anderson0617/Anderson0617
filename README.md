@@ -1,8 +1,5 @@
 <!-- START: HERO -->
-<h1 align="center">
-  <img src="assets/images/wave.gif" alt="👋" width="32" height="32" style="vertical-align: middle;" />
-  &nbsp;Oi, eu sou o Anderson — Desenvolvedor Web Júnior
-</h1>
+# 👋 Oi, eu sou o Anderson — Desenvolvedor Web Júnior
 
 <!-- Mockup clicável (abre o portfólio) -->
 <p align="left">
@@ -11,22 +8,25 @@
   </a>
 </p>
 
-<!-- Linha de digitação (typing) — maior -->
+<!-- Linha de digitação (typing) — maior, -->
+<!-- Typing mais rápido e largo (aparece a frase inteira antes de trocar) -->
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2600&pause=900&multiline=true&separator=%3Cbr%3E&width=880&color=00FFFF&repeat=true&lines=bem-vindo+ao+meu+guithub+aqui+a+evolucao+e+notavel;Aqui+a+evolu%C3%A7%C3%A3o+acontece+%F0%9F%9A%80;Projeto+em+destaque%3A+Meu+Portf%C3%B3lio;Front-End+%2B+Automa%C3%A7%C3%A3o+(n8n%2FWebhooks%2FIA);Landing+pages+%C3%A1geis+e+responsivas;APIs%2C+integra%C3%A7%C3%B5es+e+GitHub+Pages;Conecta+comigo+no+LinkedIn+%F0%9F%91%87&v=6"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=34&duration=1800&pause=700&multiline=true&separator=%3Cbr%3E&width=980&color=00FFFF&repeat=true&center=true&lines=bem-vindo+ao+meu+guithub+aqui+a+evolucao+e+notavel&v=10"
     alt="Mensagens animadas (typing) em #00FFFF"
   />
 </p>
+
+
 <!-- END: HERO -->
 
 ---
 
 ## 🔧 Skills (núcleo)
 <!-- badges principais -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## 🎨 Front-End & Ferramentas
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
@@ -69,7 +69,6 @@ Criei um portfólio com foco em performance, responsividade e showcase de integr
 ## 🔗 Links principais
 - 🌐 **Portfólio Online:** https://anderson0617.github.io/-meu-portfolio/  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/anderson-olivera-dev  
-- 📺 **YouTube:** *(demos dos projetos)*  
 - ✉️ **Contato:** anderson0920485@gmail.com
 
 ---
@@ -79,6 +78,7 @@ São José – SC. Em transição para tecnologia, apaixonado por criar soluçõ
 Aberto a colaboração, freelas e oportunidades. **Chama lá no LinkedIn!**
 
 ---
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anderson0617&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
