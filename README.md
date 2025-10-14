@@ -1,4 +1,4 @@
-﻿<!-- START: HERO -->
+<!-- START: HERO -->
 # 👋 Oi, eu sou o Anderson — Desenvolvedor Web Júnior
 
 <!-- Faixa simulando fundo #DCDCDC (imagem full-width) -->
@@ -20,25 +20,24 @@
     alt="Mensagens animadas (typing) em #00FFFF"
   />
 </p>
-
 <!-- END: HERO -->
 
 ---
 
-## ðŸ”§ Skills (nÃºcleo)
+## 🔧 Skills (núcleo)
 <!-- badges principais -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## ðŸŽ¨ Front-End & Ferramentas
+## 🎨 Front-End & Ferramentas
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
 ![Responsive](https://img.shields.io/badge/Responsive%20Design-000000?logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white)
 ![GitHub%20Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=white)
 
-## âš™ï¸ AutomaÃ§Ã£o & IntegraÃ§Ãµes
+## ⚙️ Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-EA4B6A?logo=n8n&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-0B7285?logo=awslambda&logoColor=white)
 ![API%20REST](https://img.shields.io/badge/API%20REST-2F855A?logo=postman&logoColor=white)
@@ -46,7 +45,7 @@
 
 ---
 
-## ðŸ“Š EstatÃ­sticas
+## 📊 Estatísticas
 <p align="left">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=Anderson0617&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="stats" />
   <img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=Anderson0617&theme=tokyonight&hide_border=true" alt="streak" />
@@ -59,27 +58,27 @@
 
 ---
 
-## ðŸŒŸ Projeto em Destaque â€” Meu PortfÃ³lio
-Criei um portfÃ³lio com foco em performance, responsividade e showcase de integraÃ§Ãµes (n8n, webhooks, IA).  
+## 🌟 Projeto em Destaque — Meu Portfólio
+Criei um portfólio com foco em performance, responsividade e showcase de integrações (n8n, webhooks, IA).  
 **Acesse:**  
-- ðŸ”— **Online:** https://anderson0617.github.io/-meu-portfolio/  
-- ðŸ’» **CÃ³digo:** https://github.com/Anderson0617/-meu-portfolio
+- 🔗 **Online:** https://anderson0617.github.io/-meu-portfolio/  
+- 💻 **Código:** https://github.com/Anderson0617/-meu-portfolio
 
-> Dica: veja tambÃ©m os projetos **Mentor.Dev â€“ Gerador**, **Dev-Burger-5.1** e **Cyber-CafÃ©-Dev** no meu GitHub.
-
----
-
-## ðŸ”— Links principais
-- ðŸŒ **PortfÃ³lio Online:** https://anderson0617.github.io/-meu-portfolio/  
-- ðŸ’¼ **LinkedIn:** https://www.linkedin.com/in/anderson-olivera-dev  
-- ðŸ“º **YouTube:** *(demos dos projetos)*  
-- âœ‰ï¸ **Contato:** anderson0920485@gmail.com
+> Dica: veja também os projetos **Mentor.Dev – Gerador**, **Dev-Burger-5.1** e **Cyber-Café-Dev** no meu GitHub.
 
 ---
 
-## ðŸ™Œ Sobre mim
-Baseado em SÃ£o JosÃ© â€“ SC. Em transiÃ§Ã£o para tecnologia, apaixonado por criar soluÃ§Ãµes e automatizar processos.  
-Aberto a colaboraÃ§Ã£o, freelas e oportunidades. **Chama lÃ¡ no LinkedIn!**
+## 🔗 Links principais
+- 🌐 **Portfólio Online:** https://anderson0617.github.io/-meu-portfolio/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anderson-olivera-dev  
+- 📺 **YouTube:** *(demos dos projetos)*  
+- ✉️ **Contato:** anderson0920485@gmail.com
+
+---
+
+## 🙌 Sobre mim
+Baseado em São José – SC. Em transição para tecnologia, apaixonado por criar soluções e automatizar processos.  
+Aberto a colaboração, freelas e oportunidades. **Chama lá no LinkedIn!**
 
 ---
 
@@ -87,5 +86,5 @@ Aberto a colaboraÃ§Ã£o, freelas e oportunidades. **Chama lÃ¡ no LinkedIn!*
   <img src="https://komarev.com/ghpvc/?username=Anderson0617&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<!-- RodapÃ©: espaÃ§o para futuros banners/prints -->
-<!-- Coloque assets prÃ³prios depois em /assets e referencie aqui -->
+<!-- Rodapé: espaço para futuros banners/prints -->
+<!-- Coloque assets próprios depois em /assets e referencie aqui -->
