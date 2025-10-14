@@ -3,11 +3,6 @@
   <!-- Faixa simulando fundo #DCDCDC -->
   <img src="assets/images/banner-dcdcdc.png" alt="Faixa #DCDCDC" width="100%" />
 </p>
-<p align="left">
-  <a href="https://anderson0617.github.io/-meu-portfolio/">
-    <img src="assets/mockuper.png" alt="Mockup do Meu Portfólio (clique para visitar)" width="420" />
-  </a>
-</p>
 **Front-End & Automação (n8n / Webhooks / IA)**  
 Crio landing pages rápidas, integração com APIs e experiências modernas para web. 🚀
 
