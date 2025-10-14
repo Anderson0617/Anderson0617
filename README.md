@@ -1,5 +1,8 @@
 <!-- START: HERO -->
-# 👋 Oi, eu sou o Anderson — Desenvolvedor Web Júnior
+<h1 align="center">
+  <img src="assets/images/wave.gif" alt="👋" width="32" height="32" style="vertical-align: middle;" />
+  &nbsp;Oi, eu sou o Anderson — Desenvolvedor Web Júnior
+</h1>
 
 <!-- Mockup clicável (abre o portfólio) -->
 <p align="left">
@@ -8,25 +11,22 @@
   </a>
 </p>
 
-<!-- Linha de digitação (typing) — maior, -->
-<!-- Typing mais rápido e largo (aparece a frase inteira antes de trocar) -->
+<!-- Linha de digitação (typing) — maior -->
 <p align="left">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&size=34&duration=1800&pause=700&multiline=true&separator=%3Cbr%3E&width=980&color=00FFFF&repeat=true&center=true&lines=bem-vindo+ao+meu+guithub+aqui+a+evolucao+e+notavel&v=10"
     alt="Mensagens animadas (typing) em #00FFFF"
   />
 </p>
-
-
 <!-- END: HERO -->
 
 ---
 
 ## 🔧 Skills (núcleo)
 <!-- badges principais -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 ## 🎨 Front-End & Ferramentas
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
@@ -78,7 +78,6 @@ São José – SC. Em transição para tecnologia, apaixonado por criar soluçõ
 Aberto a colaboração, freelas e oportunidades. **Chama lá no LinkedIn!**
 
 ---
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anderson0617&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
