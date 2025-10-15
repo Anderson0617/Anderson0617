@@ -46,7 +46,7 @@
 ## 📊 Estatísticas
 <p align="left">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=Anderson0617&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="stats" />
-  <img height="190" src="https://streak-stats.demolab.com?user=Anderson0617&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="190" src="https://streak-stats.demolab.com/?user=Anderson0617&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="left">
