@@ -49,10 +49,16 @@
   <img height="190" src="https://streak-stats.demolab.com/?user=Anderson0617&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="left">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson0617&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-  <img height="190" src="https://github-profile-trophy.vercel.app/?username=Anderson0617&theme=onestar&no-frame=true&row=1&column=6" alt="trophy" />
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson0617&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anderson0617&theme=onestar&margin-w=8&margin-h=8&no-frame=true" alt="Trophy"/>
+</p>
+
 
 ---
 
