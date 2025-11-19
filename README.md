@@ -50,14 +50,14 @@
 
 <p align="left">
 
-  <!-- Linguagens (alternativo estável) -->
+  <!-- Linguagens estáveis -->
   <img height="190" 
     src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Anderson0617&layout=compact&theme=tokyonight&hide_border=true" 
     alt="top-langs" />
 
-  <!-- Troféus (100% funcional — mirror estável) -->
+  <!-- Troféus 100% estáveis -->
   <img height="190"
-    src="https://github-profile-trophy.rickstaa.dev/?username=Anderson0617&theme=tokyonight&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=Anderson0617&theme=tokyonight&no-frame=true&row=1&column=6"
     alt="trophies" />
 
 </p>
@@ -71,7 +71,7 @@ Criei um portfólio com foco em performance, responsividade e showcase de integr
 - 🔗 **Online:** https://anderson0617.github.io/-meu-portfolio/  
 - 💻 **Código:** https://github.com/Anderson0617/-meu-portfolio
 
-> Dica: veja também os projetos **Mentor.Dev – Gerador**, **Dev-Burger-5.1** e **Cyber-Café-Dev** no meu GitHub.
+> Veja também os projetos: **Mentor.Dev – Gerador**, **Dev-Burger-5.1** e **Cyber-Café-Dev**.
 
 ---
 
@@ -93,6 +93,3 @@ Aberto a parcerias, freelas e oportunidades. **bora se conectar!**
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anderson0617&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-<!-- Rodapé futuro -->
-<!-- assets personalizados podem ser adicionados depois -->
