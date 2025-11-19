@@ -1,4 +1,4 @@
-﻿<!-- START: HERO --> 
+﻿<!-- START: HERO -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="32" height="32" style="vertical-align: middle;" />
   &nbsp;Oi, eu sou o Anderson — Desenvolvedor Web Júnior
@@ -23,7 +23,6 @@
 ---
 
 ## 🔧 Skills (núcleo)
-<!-- badges principais -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -53,21 +52,21 @@
 
   <!-- Linguagens (alternativo estável) -->
   <img height="190" 
-       src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Anderson0617&layout=compact&theme=tokyonight&hide_border=true" 
-       alt="top-langs" />
+    src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Anderson0617&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="top-langs" />
 
-  <!-- Troféus alternativo (mais estável) -->
-  <img height="190" 
-       src="https://github-profile-trophy.vercel.app/?username=Anderson0617&theme=tokyonight&no-frame=true&row=1&column=6" 
-       alt="trophies" />
+  <!-- Troféus (100% funcional — mirror estável) -->
+  <img height="190"
+    src="https://github-profile-trophy.rickstaa.dev/?username=Anderson0617&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="trophies" />
 
 </p>
-
 
 ---
 
 ## 🌟 Projeto em Destaque — Meu Portfólio
 Criei um portfólio com foco em performance, responsividade e showcase de integrações (n8n, webhooks, IA).  
+
 **Acesse:**  
 - 🔗 **Online:** https://anderson0617.github.io/-meu-portfolio/  
 - 💻 **Código:** https://github.com/Anderson0617/-meu-portfolio
@@ -95,5 +94,5 @@ Aberto a parcerias, freelas e oportunidades. **bora se conectar!**
   <img src="https://komarev.com/ghpvc/?username=Anderson0617&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<!-- Rodapé: espaço para futuros banners/prints -->
-<!-- Coloque assets próprios depois em /assets e referencie aqui -->
+<!-- Rodapé futuro -->
+<!-- assets personalizados podem ser adicionados depois -->
