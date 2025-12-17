@@ -31,15 +31,10 @@ jobs:
           config_timezone: America/Sao_Paulo
           config_theme: tokyonight
           base: header, activity, community, repositories, metadata
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          # Pode falhar com tokens limitados; habilite se estiver OK com METRICS_TOKEN.
-          plugin_achievements_secrets: no
-          plugin_achievements_threshold: C
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-          plugin_habits_from: 90
+          # Desativado para estabilidade (estava gerando "Unexpected error" no SVG).
+          # Se quiser tentar reativar depois, coloque "yes" e rode o workflow manualmente.
+          plugin_achievements: no
+          plugin_habits: no
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
