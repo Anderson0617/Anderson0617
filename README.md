@@ -44,23 +44,10 @@
 
 ## 📊 Estatísticas
 <p align="left">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Anderson0617&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="stats" />
-  <img height="190" src="https://streak-stats.demolab.com/?user=Anderson0617&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="assets/metrics.svg" alt="GitHub metrics (gerado via GitHub Actions)" />
 </p>
 
-<p align="left">
-
-  <!-- Linguagens estáveis -->
-  <img height="190" 
-    src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Anderson0617&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="top-langs" />
-
-  <!-- Troféus 100% estáveis -->
-  <img height="190"
-    src="https://github-profile-trophy.vercel.app/?username=Anderson0617&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="trophies" />
-
-</p>
+> Este painel é gerado automaticamente via GitHub Actions e salvo no repositório, evitando quebras por rate limit/downtime (ex.: streak/trophies).
 
 ---
 

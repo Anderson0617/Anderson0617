@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="GitHub metrics placeholder">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <text x="30" y="55" fill="#c9d1d9" font-size="22" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif">
+    Estatísticas do GitHub
+  </text>
+  <text x="30" y="90" fill="#8b949e" font-size="16" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif">
+    Ative o GitHub Actions (workflow "Update README metrics") para gerar automaticamente este SVG.
+  </text>
+  <text x="30" y="115" fill="#8b949e" font-size="16" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif">
+    Isso evita downtime por rate limit de serviços públicos externos.
+  </text>
+</svg>
